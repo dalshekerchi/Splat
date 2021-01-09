@@ -1,5 +1,5 @@
 # Splat
-Splat is a game made using GameMaker is a multi-level platform game where the user uses WASD arrow keys to move around the obstacles. The player is faced with multiple barriers such as lava grounds, enemy bots, fire tree as well a (main bot name). As the player progress through the levels, the game increases in difficulty and the player has only three lives to get through the level. The player must use its paint gun in order to splat the enemy with paint and win the game.
+Splat is a game made using GameMaker Studio is a multi-level platform game.  The player is faced with multiple barriers such as lava grounds, enemy bots, as well as a fire tree in which collision logic is implemented. As the player progress through the levels, the game increases in difficulty and the player has only three lives to get through the level. The game has many sprites, transition animations, and level art to enhance visual fidelity. The player must use its paint gun in order to splat the enemy with paint and win the game.
 
 
 ## Built with
